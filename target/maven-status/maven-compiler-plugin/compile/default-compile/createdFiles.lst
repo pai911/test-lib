@@ -1,0 +1,5 @@
+com/quid/twingly/util/Utils.class
+com/quid/twingly/model/TwinglyForumDocument.class
+com/quid/twingly/model/Country.class
+com/quid/twingly/model/TwinglyForumRequest.class
+com/quid/twingly/model/TwinglyForumResponse.class
